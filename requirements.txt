@@ -1,23 +1,22 @@
-streamlit==1.45.1
-python-dotenv==1.1.0
+streamlit
+python-dotenv
 
-langchain==0.3.25
-langchain-community==0.3.24
-langchain-core==0.3.60
-langchain-google-genai==2.1.4
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
 
-google-api-python-client==2.169.0
-google-auth==2.40.2
-google-auth-httplib2==0.2.0
-google-generativeai==0.8.5
-# Remove google-ai-generativelanguage line entirely (let it be installed as a dependency)
-httplib2==0.22.0
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-generativeai
+httplib2
 
-huggingface-hub==0.31.4
-sentence-transformers==4.1.0
-faiss-cpu==1.11.0
+huggingface-hub
+sentence-transformers
+faiss-cpu
 
-pypdf==5.5.0
+pypdf
 
-tqdm==4.67.1
-requests==2.32.3
+tqdm
+requests
